@@ -1,1 +1,1 @@
-Chai Aur JS
+Chai Aur JavaScript
